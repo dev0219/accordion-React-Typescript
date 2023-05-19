@@ -1,0 +1,146 @@
+.app {
+    padding-top: 3%;
+    /* height: 100vh; */
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.accordion-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header {
+    width: fit-content;
+    border-bottom: 3px solid #016fd0;
+    margin-bottom: 40px;
+}
+.detailed{
+    line-height: 25px;
+}
+
+.askNow button {
+    background-color: #004cb2;
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 7px;
+    border:0px solid;
+    color: white;
+}
+
+
+.contact-acc .accordion-content p {
+    margin: 0;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #031c5d;
+    font-weight: 600;
+}
+.header h1 {
+    margin-bottom: 8px;
+    font-size: 45px;
+}
+.header h2 {
+    color: #0e81ad;
+    letter-spacing: 3px;
+}
+.accordion {
+    border-bottom:2px solid #bad9f2;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.accordion-header span {
+    font-size: 40px;
+    color: #2963ce;
+}
+.accordion-header h2 {
+    font-size: 20px;
+}
+
+.accordion-content {
+    display: flex;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.general-acc {
+  padding: 1% 10% 1% 30%;
+  background: white;
+}
+
+.general-acc .header h1 {
+   color: #031c5d;
+}
+
+.general-acc .accordion{
+    color: #031c5d;
+}
+.general-acc .accordion-content {
+    color: #031c5d;;
+}
+.general-acc span {
+    color: #031c5d;;
+}
+
+.card-acc {
+    margin-top: 50px;
+     padding: 1% 10% 1% 30%;
+    background-color: #00185a;
+}
+.card-acc .accordion {
+    border-bottom:2px solid #00327d !important;
+}
+
+.photo-acc {
+     padding: 1% 10% 1% 30%;
+}
+
+.photo-acc .header h1 {
+    color: #031c5d;
+ }
+ 
+ .photo-acc .accordion{
+     color: #031c5d;
+ }
+ .photo-acc .accordion-content {
+     color: #031c5d;;
+ }
+ .photo-acc span {
+     color: #031c5d;;
+ }
+
+.sonic-acc {
+     padding: 1% 10% 1% 30%;
+}
+
+.sonic-acc .header h1 {
+    color: #031c5d;
+ }
+ 
+ .sonic-acc .accordion{
+     color: #031c5d;
+ }
+ .sonic-acc .accordion-content {
+     color: #031c5d;;
+ }
+ .sonic-acc span {
+     color: #031c5d;;
+ }
+
+
+ .contact-acc {
+    padding: 2% 10% 2% 30%;
+}
+
+.contact-acc .header h1 {
+   color: #031c5d;
+}
+
+.contact-acc .accordion{
+    color: #031c5d;
+}
+.contact-acc .accordion-content {
+    color: #031c5d;;
+}
+.contact-acc span {
+    color: #031c5d;;
+}
