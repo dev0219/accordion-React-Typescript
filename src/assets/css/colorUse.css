@@ -1,0 +1,144 @@
+.container {
+    padding: 5% 0% 0% 0%;
+    /* height: 100vh; */
+    color: white;
+   
+}
+.color-component-body {
+    background-color: #00165a;
+    padding:  3% 0%;
+}
+.color-component-body .margin-style{
+    margin: 0% 8% 0% 26%;
+}
+.color-component-body .logotypes {
+    color: white;
+}
+.color-component-body .header-title {
+    font-family: Arial, sans-serif;
+    color: white;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.color-component-body .div-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 8% 0% 26%;
+    color: white;
+}
+.color-component-body p {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.color-component-body a {
+    color: white;
+}
+.color-component-body .title {
+    font-size: 60px;
+    color: white;
+    margin-bottom: 10px;
+}
+.color-component-body span {
+    font-weight: 800;
+}
+.color-component-body .footer{
+    background-color: #ebe9dc;
+}
+.footer {
+    padding: 2% 0% 2% 0%;;
+}
+.footer-overview {
+    margin-top: 50px;
+}
+
+.color-component-body .card-body {
+    display: block;
+}
+.color-component-body .card-body .color-list {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.color-component-body .card-body .color-item {
+    border-radius: 12px;
+    width: 470px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+ 
+}
+.color-component-body .card-body .color-item .color-panel1 {
+    width: 120px;
+    height: 140px;
+    background-color: #006FCF;
+    border: 1px solid #A7ABAA;
+}
+.color-component-body .card-body .color-item .color-pane2 {
+    width: 120px;
+    height: 140px;
+    background-color: #00175A;
+    border: 1px solid #A7ABAA;
+}
+.color-component-body .card-body .color-item .color-panel3 {
+    width: 120px;
+    height: 140px;
+    background-color: #006FCF;
+    border: 1px solid #A7ABAA;
+}
+.color-component-body .card-body .color-item .color-panel4 {
+    width: 120px;
+    height: 140px;
+    background-color: #FFFFFF;
+    border: 1px solid #A7ABAA;
+}
+.color-component-body .card-body .color-item .color-panel5 {
+    width: 120px;
+    height: 140px;
+    background-color: #000000;
+    border: 1px solid #A7ABAA;
+}
+.color-component-body .card-body .color-item .color-panel6 {
+    width: 120px;
+    height: 140px;
+    background-color: #A7ABAA;
+}
+.color-component-body .card-body .color-item {
+    display: flex;
+    /* width: 100%; */
+}
+.color-component-body .card-body .color-item {
+    margin-right: 20px;
+}
+.color-component-body .card-body .color-item .color-property .color-items{
+    display: flex;
+}   
+
+.color-component-body .card-body .color-item .color-property .color-title {
+    color: #00165a;
+    font-weight: 700;
+}
+.color-component-body .card-body .color-item .color-property .color-item-name {
+    color: #b1b1b1;
+    width: 80px;
+    white-space: nowrap;
+}
+.color-component-body .card-body .color-item .color-property .color-item-value {
+    color: #a6aec6;
+    width: 100px;
+    white-space: nowrap;
+}
+.color-component-body .card-body .color-item .color-property {
+    margin-right: 50px;
+}
+.color-component-body .card-body p {
+    float: inherit;
+    margin: auto;
+    line-height: 23px;
+}
+
+
