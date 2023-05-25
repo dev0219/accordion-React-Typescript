@@ -1,0 +1,107 @@
+.container {
+    padding: 5% 0% 0% 0%;
+    /* height: 100vh; */
+    color: white;
+   
+}
+.clear-component-body {
+    background-color: white;
+    padding:  3% 0%;
+}
+.clear-component-body .margin-style{
+    margin: 0% 8% 0% 26%;
+}
+.clear-component-body .logotypes {
+    color: #162a68;
+}
+.clear-component-body .header-title {
+    font-family: Arial, sans-serif;
+    color: #162a68;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.clear-component-body .div-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 8% 0% 26%;
+}
+.clear-component-body p {
+    font-family: Arial, sans-serif;
+    color: #031c5d;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.clear-component-body .title {
+    font-size: 60px;
+    color: black;
+    margin-bottom: 10px;
+}
+.clear-component-body span {
+    font-weight: 800;
+}
+.clear-component-body .footer{
+    background-color: #ebe9dc;
+}
+.footer {
+    padding: 2% 0% 2% 0%;;
+}
+.footer-overview {
+    margin-top: 50px;
+}
+
+.clear-component-body .card-body {
+    display: flex;
+    justify-content:flex-start;
+}
+
+.clear-component-body .card-body .card {
+    border-radius: 12px;
+    border: 0px solid  #0a7de2 !important;
+    width: 600px;
+    height: 450px;
+    display: block;
+    background-color: white;
+}
+.clear-component-body .card .group1 {
+    width: 300px;
+    height: 300px;
+}
+.clear-component-body .card .group2 {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+.clear-component-body .card .group3 {
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.clear-component-body .card .group4 {
+    width: 320px;
+    height: 110px;
+    margin-bottom: 30px;
+}
+.clear-component-body .card-body p {
+    float: inherit;
+}
+.clear-component-body .logoCollect4 {
+    width: 100%;
+}
+.clear-component-body .logoCollect4 ul {
+    font-family: Arial, sans-serif;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+    margin-left: 5%;
+}
+.clear-component-body .logoCollect4 ul li {
+    color: #00165a;
+    font-size: 20px;
+    line-height: 30px;
+}
+

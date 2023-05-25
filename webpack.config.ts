@@ -35,6 +35,7 @@ const webpackConfig = (env): Configuration => ({
                   'css-loader',
                 ],
               },
+            
         ]
     },
     plugins: [

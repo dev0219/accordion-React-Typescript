@@ -1,0 +1,155 @@
+
+hr {
+    border: 1px solid #0a7de2;
+}
+.logouse-component-body {
+ 
+    padding: 2% 0% 2% 0%;;
+}
+.logo1{
+    background-color: #00165a;
+}
+.logouse-component-body .margin-style{
+    margin: 0% 8% 0% 26%;
+    
+}
+ .logouse-component-body .header-title {
+    font-family: Arial, sans-serif;
+    color: #0a7de2;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+ .logouse-component-body .div-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 8% 0% 26%;
+}
+  .logo1 p {
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+  .logo2 p {
+    font-family: Arial, sans-serif;
+    color: #162a68;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+  .logo3 p {
+    font-family: Arial, sans-serif;
+    color: #162a68;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+ .logouse-component-body .title {
+    font-size: 60px;
+    color: white;
+    margin-bottom: 10px;
+}
+ .logouse-component-body span {
+    font-weight: 800;
+}
+ .logouse-component-body .footer{
+    background-color: #ebe9dc;
+}
+.footer {
+    padding: 2% 0% 2% 0%;;
+}
+.logouse-component-body .footer-overview {
+    margin-top: 50px;
+}
+
+.logouse-component-body .card-body {
+    display: flex;
+    justify-content:flex-start;
+}
+.logouse-component-body .logoCollect1 {
+    margin-left: 10%;
+    width: 100%;
+}
+.logouse-component-body .logoCollect1 ul li {
+    text-decoration: underline !important;
+    font-size: 20px;
+}
+.logouse-component-body .logoCollect2 ul {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+}
+.logouse-component-body .logoCollect2 ul li {
+    color: #00165a;
+    font-size: 20px;
+    line-height: 30px;
+}
+.logouse-component-body .logoCollect3 ul {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin: auto;
+}
+.logouse-component-body .logoCollect3 ul li {
+    color: #00165a;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.logouse-component-body .logoCollect1 span {
+    text-decoration: underline !important;
+}
+
+
+.logouse-component-body .card-body .card {
+    border-radius: 12px;
+    border: 2px solid  #0a7de2;
+    width: 400px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logouse-component-body .card-body .card img {
+    width: 200px;
+    height: 200px;
+}
+.logouse-component-body .card-body p {
+    float: right;
+    margin-top: 0px;
+}
+
+.logouse-component-body .card-body .card .cap-height{
+    object-fit: contain;
+    width: 400px;
+}
+
+.logouse-component-body .color-card {
+    width: 170px;
+    height: 160px;
+    border: 2px solid #c8c4bf;
+}
+
+.logouse-component-body .card1 {
+    background: #0b110f;
+}
+
+.footer{
+    background-color: #ebe9dc;
+}
+.footer {
+    padding: 2% 0% 2% 0%;;
+    font-family: Arial, sans-serif;
+    color: #162a68;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.footer-overview {
+    margin-top: 50px;
+}

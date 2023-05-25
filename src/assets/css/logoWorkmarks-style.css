@@ -1,0 +1,93 @@
+.container {
+    padding: 5% 0% 0% 0%;
+    /* height: 100vh; */
+    color: white;
+   
+}
+.wordmark-component-body {
+    background-color: #00165a;
+    padding:  3% 0%;
+}
+.wordmark-component-body .margin-style{
+    margin: 0% 8% 0% 26%;
+}
+.wordmark-component-body .logotypes {
+    color: white;
+}
+.wordmark-component-body .header-title {
+    font-family: Arial, sans-serif;
+    color: white;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.wordmark-component-body .div-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 8% 0% 26%;
+}
+.wordmark-component-body p {
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.wordmark-component-body a {
+    color: white;
+}
+.wordmark-component-body .title {
+    font-size: 60px;
+    color: black;
+    margin-bottom: 10px;
+}
+.wordmark-component-body span {
+    font-weight: 800;
+}
+.wordmark-component-body .footer{
+    background-color: #ebe9dc;
+}
+.footer {
+    padding: 2% 0% 2% 0%;;
+}
+.footer-overview {
+    margin-top: 50px;
+}
+
+.wordmark-component-body .card-body {
+    display: flex;
+    justify-content:flex-start;
+}
+
+.wordmark-component-body .card-body .card {
+    border-radius: 12px;
+    border: 0px solid  #0a7de2 !important;
+    width: 400px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.wordmark-component-body .card img {
+    width: 200px;
+    height: 200px;
+}
+.wordmark-component-body .card-body p {
+    float: inherit;
+    margin-top: 0px;
+}
+.wordmark-component-body .logoCollect5 {
+    width: 100%;
+    margin-left: 5%;
+}
+.wordmark-component-body .logoCollect5 ul {
+    font-family: Arial, sans-serif;
+    margin: auto;   
+}
+.wordmark-component-body .logoCollect5 ul li {
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+

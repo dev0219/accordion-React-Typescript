@@ -1,0 +1,91 @@
+.container {
+    padding: 5% 0% 0% 0%;
+    /* height: 100vh; */
+    color: white;
+   
+}
+.trademark-component-body {
+    background-color: #f6f6f6;
+    padding:  3% 0%;
+}
+.trademark-component-body .margin-style{
+    margin: 0% 8% 0% 26%;
+}
+.trademark-component-body .logotypes {
+    color: #162a68;
+}
+.trademark-component-body .header-title {
+    font-family: Arial, sans-serif;
+    color: #162a68;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.trademark-component-body .div-title {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 8% 0% 26%;
+}
+.trademark-component-body p {
+    font-family: Arial, sans-serif;
+    color: #031c5d;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.trademark-component-body .title {
+    font-size: 60px;
+    color: black;
+    margin-bottom: 10px;
+}
+.trademark-component-body span {
+    font-weight: 800;
+}
+.trademark-component-body .footer{
+    background-color: #ebe9dc;
+}
+.footer {
+    padding: 2% 0% 2% 0%;;
+}
+.footer-overview {
+    margin-top: 50px;
+}
+
+.trademark-component-body .card-body {
+    display: flex;
+    justify-content:flex-start;
+}
+
+.trademark-component-body .card-body .card {
+    border-radius: 12px;
+    border: 0px solid  #0a7de2 !important;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+}
+.trademark-component-body .card img {
+    width: 200px;
+    height: 200px;
+}
+.trademark-component-body .card-body p {
+    float: inherit;
+    margin-top: 0px;
+}
+.trademark-component-body .logoCollect4 {
+    width: 100%;
+    margin-left: 5%;
+}
+.trademark-component-body .logoCollect4 ul {
+    font-family: Arial, sans-serif;
+    margin: auto;   
+}
+.trademark-component-body .logoCollect4 ul li {
+    color: #00165a;
+    font-size: 20px;
+    line-height: 30px;
+}
+
