@@ -8,6 +8,8 @@ import LogoWordmarks from "components/logoWordmarks";
 import LogoLockups from "components/logoLockups";
 import Overview from "components/overview";
 import ColorUse from "components/colorUse";
+import ColorGray from "components/colorGray";
+import ColorRatio from "components/colorRatio";
 
 const App: React.FC = () => {
     return (
@@ -15,6 +17,8 @@ const App: React.FC = () => {
             <Logo />
             <Overview />
             <ColorUse />
+            <ColorGray />
+            <ColorRatio />
             <LogoUse />
             <LogoSize />
             <LogoClearSpace />
